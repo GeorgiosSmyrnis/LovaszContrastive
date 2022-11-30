@@ -1,6 +1,6 @@
 # Lovasz Theta Contrastive Learning
 
-## Authors: Georgios Smyrnis, Matt Jordan, Ananya Uppal, Giannis Daras, Alexandros G. Dimakis
+### Authors: Georgios Smyrnis, Matt Jordan, Ananya Uppal, Giannis Daras, Alexandros G. Dimakis
 
 This code is used to train the Lovasz Theta Contrastive models.
 
